@@ -1,0 +1,52 @@
+/* all css */
+.App {
+  text-align: center;
+  
+}
+* {
+  box-sizing: border-box;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height:100vh; 
+  text-align: center;
+}
+.column2 {
+  
+  width:50%;
+  padding: 10px;
+  height: 300px;
+  text-align: center; 
+}
+
+
+.fm ,input{
+    width: 250px;
+    height: 50px;
+    margin: 5px;
+}
+button{
+  text-align: center;
+  padding: 10px 15px;
+  border-radius:5px 8px 5px 8px;
+  }
+.pl {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  background-color: rosybrown;
+  margin-bottom: 20px;
+}
+
+.fm1{
+  padding:100px 100px 0px 200px;
+}
